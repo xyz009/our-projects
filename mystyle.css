@@ -4,8 +4,10 @@ h1{
 	color: white;
 }
 .nav{
-	background-color: grey;
-	border-radius: 50%
+	background-color: black;
+	border-radius: 20%;
+	text-align: center;
+	color: azure;
 }
 .item{
 
@@ -21,4 +23,16 @@ a{
 	background-color: white;
 	color: blue;
 	padding: 2px;
+}
+.header{
+	color: orange;
+	font-family: sans-serif;
+	margin: 4px;
+}
+.btn{
+	border-radius: 50%;
+	padding: 2px;
+}
+.label{
+	margin: left;
 }
